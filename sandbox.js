@@ -483,3 +483,6 @@ function VerifO() {
  } else {
      document.getElementById("n").style.color = "red";
  }};
+
+
+  
